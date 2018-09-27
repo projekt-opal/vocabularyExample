@@ -1,0 +1,44 @@
+<http://distribution.projekt-opal.de/distribution_3>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                <ftp://ftp-cdc.dwd.de/pub/CDC/grids_germany/monthly/sunshine_duration/> .
+
+<http://distribution.projekt-opal.de/distribution_8>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                <http://atlas.wsv.bund.de/dbwk1000/wms?REQUEST=GetCapabilities&SERVICE=WMS> .
+
+<http://distribution.projekt-opal.de/distribution_1>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                <ftp://ftp-cdc.dwd.de/pub/CDC/grids_germany/annual/phenology/WRAB/> .
+
+<http://distribution.projekt-opal.de/distribution_6>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#downloadURL>
+                <http://www.vbb.de/de/datei/GTFS_VBB_2013_bis_Aug_2013.zip> .
+
+<http://distribution.projekt-opal.de/distribution_4>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#downloadURL>
+                <http://daten-hamburg.de/transport_verkehr/radwegeGIS/RadwegeGIS_HH_2014-09-17.zip> .
+
+<http://distribution.projekt-opal.de/distribution_2>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#accessURL>
+                <ftp://ftp-cdc.dwd.de/pub/CDC/observations_germany/climate_urban/hourly/air_temperature/> .
+
+<http://distribution.projekt-opal.de/distribution_7>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#downloadURL>
+                <http://www.vbb.de/de/datei/GTFS_VBB_Aug_Dez2017.zip> .
+
+<http://distribution.projekt-opal.de/distribution_0>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#downloadURL>
+                <http://daten-hamburg.de/umwelt_klima/grundwassergleichen_max_2008/GrundwassergleichenMax2008_HH_2014-09-12.zip> .
+
+<http://distribution.projekt-opal.de/distribution_5>
+        a       <http://www.w3.org/ns/dcat#distribution> ;
+        <http://www.w3.org/ns/dcat#downloadURL>
+                <http://atlas.wsv.bund.de/inspire/atom/hoehen.xml> .

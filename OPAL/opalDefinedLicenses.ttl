@@ -1,0 +1,21 @@
+<http://license.projekt-opal.de/license_1>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://purl.org/dc/terms/references>
+                <https://creativecommons.org/licenses/by/4.0/deed.de> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>
+                <http://license.projekt-opal.de/> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>
+                <http://license.projekt-opal.de/> ;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <https://creativecommons.org/licenses/by/4.0/deed.de> .
+
+<http://license.projekt-opal.de/license_0>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://purl.org/dc/terms/references>
+                <http://www.gesetze-im-internet.de/geonutzv/index.html> ;
+        <http://www.w3.org/2004/02/skos/core#inScheme>
+                <http://license.projekt-opal.de/> ;
+        <http://www.w3.org/2004/02/skos/core#topConceptOf>
+                <http://license.projekt-opal.de/> ;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <http://www.gesetze-im-internet.de/geonutzv/index.html> .
