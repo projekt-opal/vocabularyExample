@@ -1,0 +1,61 @@
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://purl.org/dc/terms/title>	"Bund: Farbrelief des Wasserlaufs"
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://purl.org/dc/terms/description>	"Farbrelief des Wasserlaufs"
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://purl.org/dc/terms/issued>	"14.09.2016"
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://www.w3.org/ns/dcat#theme>	<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://www.w3.org/ns/dcat#distribution>	<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_0>
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://www.w3.org/ns/dcat#distribution>	<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_1>
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://www.w3.org/ns/dcat#distribution>	<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_2>
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://purl.org/dc/terms/publisher>	<http://projekt-opal.de/agent/bundfarbreliefdeswasserlaufs>
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>	<http://www.w3.org/ns/dcat#landingPage>	<https://mcloud.de/web/guest/suche/-/results/detail/bundfarbreliefdeswasserlaufs?_mcloudsearchportlet_backURL=https%3A%2F%2Fmcloud.de%2Fweb%2Fguest%2Fsuche%2F-%2Fresults%2FsearchAction%3F_mcloudsearchportlet_page%3D74%26_mcloudsearchportlet_sort%3Dlatest>
+<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	"skos:Concept"
+<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>	<https://www.w3.org/2000/01/rdf-schema#label>	"Wasserstraßen und Gewässer"
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_0>	<http://purl.org/dc/terms/license>	<http://www.gesetze-im-internet.de/geonutzv/index.html>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_0>	<http://www.w3.org/ns/dcat#downloadURL>	<http://atlas.wsv.bund.de/inspire/atom/hoehen.xml>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_1>	<http://www.w3.org/ns/dcat#accessURL>	<http://atlas.wsv.bund.de/inspire/el/wms?REQUEST=GetCapabilities&SERVICE=wms>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_1>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_1>	<http://purl.org/dc/terms/license>	<http://www.gesetze-im-internet.de/geonutzv/index.html>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_2>	<http://www.w3.org/ns/dcat#accessURL>	<http://atlas.wsv.bund.de/inspire/el/wms?service=wms&request=getcapabilities>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_2>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_2>	<http://purl.org/dc/terms/license>	<http://www.gesetze-im-internet.de/geonutzv/index.html>
+<http://projekt-opal.de/agent/bundfarbreliefdeswasserlaufs>	<http://xmlns.com/foaf/0.1/name>	"Informationstechnikzentrum Bund (ITZBund)"
+<http://projekt-opal.de/agent/bundfarbreliefdeswasserlaufs>	<http://xmlns.com/foaf/0.1/homepage>	<https://www.itzbund.de>
+<http://projekt-opal.de/agent/bundfarbreliefdeswasserlaufs>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://xmlns.com/foaf/0.1/Agent>
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://purl.org/dc/terms/title>	"Digitale Bundeswasserstraßenkarte im Maßstab 1:1.000.000"
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://purl.org/dc/terms/description>	"Digitale Bundeswasserstraßenkarte im Maßstab 1:1.000.000"
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://www.w3.org/ns/dcat#landingPage>	<https://mcloud.de/web/guest/suche/-/results/detail/digitalebundeswasserstraenkarteimmastab11000000?_mcloudsearchportlet_backURL=https%3A%2F%2Fmcloud.de%2Fweb%2Fguest%2Fsuche%2F-%2Fresults%2FsearchAction%3F_mcloudsearchportlet_page%3D73%26_mcloudsearchportlet_sort%3Dlatest>
+/digitalebundeswasserstraenkarteimmastab11000000>
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://www.w3.org/ns/dcat#theme>	<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://purl.org/dc/terms/issued>	"14.09.2016"
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://www.w3.org/ns/dcat#distribution>	<http://projekt-opal.de/distribution/digitalebundeswasserstraenkarteimmastab11000000_0>
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>	<http://purl.org/dc/terms/publisher>	<http://projekt-opal.de/agent
+<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	"skos:Concept"
+<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>	<https://www.w3.org/2000/01/rdf-schema#label>	"Wasserstraßen und Gewässer"
+<http://projekt-opal.de/distribution/digitalebundeswasserstraenkarteimmastab11000000_0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>
+<http://projekt-opal.de/distribution/digitalebundeswasserstraenkarteimmastab11000000_0>	<http://www.w3.org/ns/dcat#accessURL>	<http://atlas.wsv.bund.de/dbwk1000/wms?REQUEST=GetCapabilities&SERVICE=WMS>
+<http://projekt-opal.de/distribution/digitalebundeswasserstraenkarteimmastab11000000_0>	<http://purl.org/dc/terms/license>	<http://www.gesetze-im-internet.de/geonutzv/index.html>
+<http://projekt-opal.de/agent/digitalebundeswasserstraenkarteimmastab11000000>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://xmlns.com/foaf/0.1/Agent>
+<http://projekt-opal.de/agent/digitalebundeswasserstraenkarteimmastab11000000>	<http://xmlns.com/foaf/0.1/name>	"Generaldirektion Wasserstraßen und Schifffahrt (GDWS)"
+<http://projekt-opal.de/agent/digitalebundeswasserstraenkarteimmastab11000000>	<http://xmlns.com/foaf/0.1/homepage>	<http://www.wsv.de/>
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://purl.org/dc/terms/title>	"RadwegeGis Hamburg"
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://purl.org/dc/terms/description>	"Dieser Datensatz ist und war nie vollständig und wird nicht mehr gepflegt. Die Inhalte sind in verschiedene Einzeldatensätze zum Thema Radverkehr aufgeteilt."
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://purl.org/dc/terms/issued>	"07.09.2014"
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://www.w3.org/ns/dcat#theme>	<http://projeckt-opal.de/theme/mcloud/street>
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://www.w3.org/ns/dcat#distribution>	<http://projekt-opal.de/distribution/radwegegishamburg_0>
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://www.w3.org/ns/dcat#distribution>	<http://projekt-opal.de/distribution/radwegegishamburg_1>
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://purl.org/dc/terms/publisher>	<http://projekt-opal.de/agent/radwegegishamburg>
+<http://projekt-opal.de/dataset/radwegegishamburg>	<http://www.w3.org/ns/dcat#landingPage>	<https://mcloud.de/web/guest/suche/-/results/detail/radwegegishamburg?_mcloudsearchportlet_backURL=https%3A%2F%2Fmcloud.de%2Fweb%2Fguest%2Fsuche%2F-%2Fresults%2FsearchAction%3F_mcloudsearchportlet_page%3D1%26_mcloudsearchportlet_sort%3Dlatest>
+<http://projeckt-opal.de/theme/mcloud/street>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	"skos:Concept"
+<http://projeckt-opal.de/theme/mcloud/street>	<https://www.w3.org/2000/01/rdf-schema#label>	"Straßen"
+<http://projekt-opal.de/distribution/radwegegishamburg_0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>
+<http://projekt-opal.de/distribution/radwegegishamburg_0>	<http://purl.org/dc/terms/license>	<https://www.govdata.de/dl-de/by-2-0>
+<http://projekt-opal.de/distribution/radwegegishamburg_0>	<http://www.w3.org/ns/dcat#downloadURL>	<http://daten-hamburg.de/transport_verkehr/radwegeGIS/RadwegeGIS_HH_2014-09-17.zip>
+<http://projekt-opal.de/distribution/radwegegishamburg_1>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>
+<http://projekt-opal.de/distribution/radwegegishamburg_1>	<http://purl.org/dc/terms/license>	<https://www.govdata.de/dl-de/by-2-0>
+<http://projekt-opal.de/distribution/radwegegishamburg_1>	<http://www.w3.org/ns/dcat#downloadURL>	<http://geoportal-hamburg.de/Geoportal/geo-online/>
+<http://projekt-opal.de/agent/radwegegishamburg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://xmlns.com/foaf/0.1/Agent>
+<http://projekt-opal.de/agent/radwegegishamburg>	<http://xmlns.com/foaf/0.1/name>	"Hamburg: Behörde für Wirtschaft, Verkehr und Innovation, Amt für Verkehr und Straßenwesen"
+<http://projekt-opal.de/agent/radwegegishamburg>	<http://xmlns.com/foaf/0.1/homepage>	<http://www.hamburg.de/bwvi/verkehr-strassenwesen/>

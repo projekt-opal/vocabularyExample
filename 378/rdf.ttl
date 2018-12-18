@@ -1,0 +1,40 @@
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+
+<http://projekt-opal.de/distribution/radwegegishamburg_1>
+        a                 dcat:Distribution ;
+        <http://purl.org/dc/terms/license>
+                <https://www.govdata.de/dl-de/by-2-0> ;
+        dcat:downloadURL  <http://geoportal-hamburg.de/Geoportal/geo-online/> .
+
+<http://projekt-opal.de/agent/radwegegishamburg>
+        a       <http://xmlns.com/foaf/0.1/Agent> ;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <http://www.hamburg.de/bwvi/verkehr-strassenwesen/> ;
+        <http://xmlns.com/foaf/0.1/name>
+                "Hamburg: Behörde für Wirtschaft, Verkehr und Innovation, Amt für Verkehr und Straßenwesen" .
+
+<http://projeckt-opal.de/theme/mcloud/street>
+        a       "skos:Concept" ;
+        <https://www.w3.org/2000/01/rdf-schema#label>
+                "Straßen" .
+
+<http://projekt-opal.de/distribution/radwegegishamburg_0>
+        a                 dcat:Distribution ;
+        <http://purl.org/dc/terms/license>
+                <https://www.govdata.de/dl-de/by-2-0> ;
+        dcat:downloadURL  <http://daten-hamburg.de/transport_verkehr/radwegeGIS/RadwegeGIS_HH_2014-09-17.zip> .
+
+<http://projekt-opal.de/dataset/radwegegishamburg>
+        a                  dcat:Dataset ;
+        <http://purl.org/dc/terms/description>
+                "Dieser Datensatz ist und war nie vollständig und wird nicht mehr gepflegt. Die Inhalte sind in verschiedene Einzeldatensätze zum Thema Radverkehr aufgeteilt." ;
+        <http://purl.org/dc/terms/issued>
+                "07.09.2014" ;
+        <http://purl.org/dc/terms/publisher>
+                <http://projekt-opal.de/agent/radwegegishamburg> ;
+        <http://purl.org/dc/terms/title>
+                "RadwegeGis Hamburg" ;
+        dcat:distribution  <http://projekt-opal.de/distribution/radwegegishamburg_1> , <http://projekt-opal.de/distribution/radwegegishamburg_0> ;
+        dcat:landingPage   <https://mcloud.de/web/guest/suche/-/results/detail/radwegegishamburg?_mcloudsearchportlet_backURL=https%3A%2F%2Fmcloud.de%2Fweb%2Fguest%2Fsuche%2F-%2Fresults%2FsearchAction%3F_mcloudsearchportlet_page%3D1%26_mcloudsearchportlet_sort%3Dlatest> ;
+        dcat:theme         <http://projeckt-opal.de/theme/mcloud/street> .
+

@@ -1,0 +1,33 @@
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+
+<http://projekt-opal.de/agent/digitalebundeswasserstraenkarteimmastab11000000>
+        a       <http://xmlns.com/foaf/0.1/Agent> ;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <http://www.wsv.de/> ;
+        <http://xmlns.com/foaf/0.1/name>
+                "Generaldirektion Wasserstraßen und Schifffahrt (GDWS)" .
+
+<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>
+        a       "skos:Concept" ;
+        <https://www.w3.org/2000/01/rdf-schema#label>
+                "Wasserstraßen und Gewässer" .
+
+<http://projekt-opal.de/distribution/digitalebundeswasserstraenkarteimmastab11000000_0>
+        a               dcat:Distribution ;
+        <http://purl.org/dc/terms/license>
+                <http://www.gesetze-im-internet.de/geonutzv/index.html> ;
+        dcat:accessURL  <http://atlas.wsv.bund.de/dbwk1000/wms?REQUEST=GetCapabilities&SERVICE=WMS> .
+
+<http://projekt-opal.de/dataset/digitalebundeswasserstraenkarteimmastab11000000>
+        a                  dcat:Dataset ;
+        <http://purl.org/dc/terms/description>
+                "Digitale Bundeswasserstraßenkarte im Maßstab 1:1.000.000" ;
+        <http://purl.org/dc/terms/issued>
+                "14.09.2016" ;
+        <http://purl.org/dc/terms/publisher>
+                <http://projekt-opal.de/agent/digitalebundeswasserstraenkarteimmastab11000000> ;
+        <http://purl.org/dc/terms/title>
+                "Digitale Bundeswasserstraßenkarte im Maßstab 1:1.000.000" ;
+        dcat:distribution  <http://projekt-opal.de/distribution/digitalebundeswasserstraenkarteimmastab11000000_0> ;
+        dcat:landingPage   <https://mcloud.de/web/guest/suche/-/results/detail/digitalebundeswasserstraenkarteimmastab11000000?_mcloudsearchportlet_backURL=https%3A%2F%2Fmcloud.de%2Fweb%2Fguest%2Fsuche%2F-%2Fresults%2FsearchAction%3F_mcloudsearchportlet_page%3D73%26_mcloudsearchportlet_sort%3Dlatest> ;
+        dcat:theme         <http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters> .

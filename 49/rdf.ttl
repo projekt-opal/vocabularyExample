@@ -1,0 +1,45 @@
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_2>
+        a               dcat:Distribution ;
+        <http://purl.org/dc/terms/license>
+                <http://www.gesetze-im-internet.de/geonutzv/index.html> ;
+        dcat:accessURL  <http://atlas.wsv.bund.de/inspire/el/wms?service=wms&request=getcapabilities> .
+
+<http://projekt-opal.de/dataset/bundfarbreliefdeswasserlaufs>
+        a                  dcat:Dataset ;
+        <http://purl.org/dc/terms/description>
+                "Farbrelief des Wasserlaufs" ;
+        <http://purl.org/dc/terms/issued>
+                "14.09.2016" ;
+        <http://purl.org/dc/terms/publisher>
+                <http://projekt-opal.de/agent/bundfarbreliefdeswasserlaufs> ;
+        <http://purl.org/dc/terms/title>
+                "Bund: Farbrelief des Wasserlaufs" ;
+        dcat:distribution  <http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_2> , <http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_0> , <http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_1> ;
+        dcat:landingPage   <https://mcloud.de/web/guest/suche/-/results/detail/bundfarbreliefdeswasserlaufs?_mcloudsearchportlet_backURL=https%3A%2F%2Fmcloud.de%2Fweb%2Fguest%2Fsuche%2F-%2Fresults%2FsearchAction%3F_mcloudsearchportlet_page%3D74%26_mcloudsearchportlet_sort%3Dlatest> ;
+        dcat:theme         <http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters> .
+
+<http://projeckt-opal.de/theme/mcloud/waterwaysAndWaters>
+        a       "skos:Concept" ;
+        <https://www.w3.org/2000/01/rdf-schema#label>
+                "Wasserstraßen und Gewässer" .
+
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_0>
+        a                 dcat:Distribution ;
+        <http://purl.org/dc/terms/license>
+                <http://www.gesetze-im-internet.de/geonutzv/index.html> ;
+        dcat:downloadURL  <http://atlas.wsv.bund.de/inspire/atom/hoehen.xml> .
+
+<http://projekt-opal.de/agent/bundfarbreliefdeswasserlaufs>
+        a       <http://xmlns.com/foaf/0.1/Agent> ;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <https://www.itzbund.de> ;
+        <http://xmlns.com/foaf/0.1/name>
+                "Informationstechnikzentrum Bund (ITZBund)" .
+
+<http://projekt-opal.de/distribution/bundfarbreliefdeswasserlaufs_1>
+        a               dcat:Distribution ;
+        <http://purl.org/dc/terms/license>
+                <http://www.gesetze-im-internet.de/geonutzv/index.html> ;
+        dcat:accessURL  <http://atlas.wsv.bund.de/inspire/el/wms?REQUEST=GetCapabilities&SERVICE=wms> .
